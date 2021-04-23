@@ -19,7 +19,7 @@ blagues vraiment très drôles à mourir de rire à se jeter par terre
 ```
 modules: [
 	 {
-		module: "MMM-CloneWarsQuotes",
+		module: "MMM-BlaguesDroles",
 		position: "middle_center",
 		config: {}
 	 }
